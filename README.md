@@ -11,4 +11,4 @@
 <hr>
 <br>
 <h2>Print Mobile</h2>
-<img src="print_cell.png">  
+<img src="print_cell.jpg">  
